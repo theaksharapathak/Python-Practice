@@ -1,6 +1,6 @@
-#Get Smallest Number in List
-#Write a Python program to get the smallest number from a list.
-my_list = [100,2,33]
+# Get Smallest Number in List
+# Write a Python program to get the smallest number from a list.
+my_list = [100, 2, 33]
 
 
 def smallest_no(items):

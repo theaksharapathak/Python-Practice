@@ -1,4 +1,4 @@
-#Insert Element Before Each List Item
+# Insert Element Before Each List Item
 color = ['red', 'pink', 'blue']
 my_list = []
 for c in color:

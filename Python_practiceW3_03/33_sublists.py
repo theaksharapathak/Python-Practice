@@ -1,5 +1,5 @@
 #Write a Python program to check whether a list contains a sublist.
-my_list = [1,2,23]
+my_list = [1,2,23,99]
 sublists = []
 
 for i in range(len(my_list)):

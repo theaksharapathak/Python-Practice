@@ -1,10 +1,9 @@
-#Shuffle List
-#Write a Python program to shuffle and print a specified list.
+# Shuffle List
+# Write a Python program to shuffle and print a specified list.
 
 import random
-my_list = [22,9,45]
+my_list = [22, 9, 45]
 
 random.shuffle(my_list)
 
 print(my_list)
-

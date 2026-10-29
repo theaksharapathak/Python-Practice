@@ -1,6 +1,6 @@
-#Generate All Sublists
-#Write a Python program to generate all sublists of a list.
-l = [1,22,34]
+# Generate All Sublists
+# Write a Python program to generate all sublists of a list.
+l = [1, 22, 34]
 sublists = []
 
 for i in range(len(l)):
